@@ -5,28 +5,28 @@
   <img src="https://img.shields.io/github/stars/DivideProjects/Alita_Robot?style=flat-square" alt="Stars">
   <img src="https://img.shields.io/github/issues/DivideProjects/Alita_Robot?style=flat-square" alt="Issues">
   <img src="https://img.shields.io/github/license/DivideProjects/Alita_Robot?style=flat-square" alt="LICENSE">
-  <img src="https://img.shields.io/github/contributors/DivideProjects/Alita_Robot?style=flat-square" alt="Contributors">
-  <img src="https://img.shields.io/github/repo-size/DivideProjects/Alita_Robot?style=flat-square" alt="Repo Size">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DivideProjects/Alita_Robot&amp;title=Profile%20Views" alt="Views">
+  <img src="https://img.shields.io/github/contributors/Adarshtiwari1305/MorbiusRobot?style=flat-square" alt="Contributors">
+  <img src="https://img.shields.io/github/repo-size/Adarshtiwari1305/MorbiusRobot?style=flat-square" alt="Repo Size">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Adarshtiwari1305/MorbiusRobot&amp;title=Profile%20Views" alt="Views">
 </p>
 
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/DivideProjects/Alita_Robot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-  <a href="https://deepsource.io/gh/DivideProjects/Alita_Robot/?ref=repository-badge"><img src="https://static.deepsource.io/deepsource-badge-light-mini.svg" alt="DeepSource"></a>
+  <a href="https://github.com/Adarshtiwari1305/MorbiusRobot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+  <a href="https://deepsource.io/gh/Adarshtiwari1305/MorbiusRobot/?ref=repository-badge"><img src="https://static.deepsource.io/deepsource-badge-light-mini.svg" alt="DeepSource"></a>
   <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
 <p align='center'>
- <a href="https://heroku.com/deploy?template=https://github.com/DivideProjects/Alita_Robot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
-  <a href="https://t.me/DivideProjects"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Join us on Telegram"></a></br></br>
+ <a href="https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/MorbiusRobot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
+  <a href="https://t.me/Adarshtiwari1305"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Join us on Telegram"></a></br></br>
 
 </p>
 
 
-Alita is a Telegram Group managment bot made using **[Pyrogram](https://github.com/pyrogram/pyrogram) _async version_** and **[Python](https://python.org)**, which makes it modern and faster than most of the exisitng Telegram Chat Managers.
+Morbius Robot is a Telegram Group managment bot made using **[Pyrogram](https://github.com/pyrogram/pyrogram) _async version_** and **[Python](https://python.org)**, which makes it modern and faster than most of the exisitng Telegram Chat Managers.
 
-**Alita's features over other bots:**
+**Morbius Robot's features over other bots:**
 - Modern
 - Fast
 - Fully asynchronous
@@ -34,17 +34,17 @@ Alita is a Telegram Group managment bot made using **[Pyrogram](https://github.c
 - Frequently updated
 - Multi Language Support
 
-Can be found on Telegram as [@Alita_Robot](https://t.me/Alita_Robot)
+Can be found on Telegram as [@Morbius_management_bot](https://t.me/Morbius_management_bot)
 </br>
 
-Alita is currently available in 1 Language as of now:
+Morbius Robot is currently available in 1 Language as of now:
 - **US English**
 
 More languages can be managed in the _locales_ folder.
 
 We are still working on adding new languages.
 
-Help us bring more languages to the bot by contributing to the project on [Crowdin](https://crowdin.com/project/alitarobot)
+Help us bring more languages to the bot by contributing to the project on [Crowdin](https://crowdin.com/Adarshtiwari1305/MorbiusRobot)
 
 ## Requirements
 - You need to have a *Mongo Database* (Cluster Preferred)
@@ -64,20 +64,20 @@ It really motivates me to continue this project further.
 
 **Note:** By default the bot uses the default heroku-20 stack.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DivideProjects/Alita_Robot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/MorbiusRobot)
 
 ### Traditional
 
 - Install Python v3.7 or later from [Python's Website](https://python.org)
 - Install virtualenv using `python3 -m pip -U install virtualenv`.
-- **Fork** or Clone the project using `git clone https://github.com/DivideProjects/Alita_Robot.git`
+- **Fork** or Clone the project using `git clone https://github.com/Adarshtiwari1305/MorbiusRobot.git`
 - Create Virtualenv using: `virtualenv venv`
 - Install the requirements using `python3 -m pip install -r requirements.txt`
 - Fill in all the variables in *Development* class, not *Config* class. **Sudo, Dev, Whitelist** users are optional!!
 - Change to virtualenv shell by using:
   `. venv/bin/activate` (Linux)
   `venv\Scripts\activate` (Windows)
-- Run the bot using `python3 -m alita`
+- Run the bot using `python3 -m morbius`
 
 ### Docker
 
@@ -85,7 +85,7 @@ It really motivates me to continue this project further.
 - Install [Docker](https://www.docker.com/)
 - Fill in the `sample.env` file and rename it to `main.env`.
 - Build the docker image using: `docker build -t alita_robot:latest .` (The dot '.' at last is necessary!)
-- Run the command `docker run --env-file main.env alita_robot`
+- Run the command `docker run --env-file main.env morbiusrobot`
 
 
 If all works well, bot should send message to the **MESSAGE_DUMP** Group!
@@ -108,8 +108,8 @@ If all works well, bot should send message to the **MESSAGE_DUMP** Group!
 ### Copyright & License
 
 * Copyright (C) 2020-2021 by [Divkix](https://github.com/Divkix) ❤️️
-* Licensed under the terms of the [GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/DivideProjects/Alita_Robot/blob/master/LICENSE)
+* Licensed under the terms of the [GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/Adarshtiwari1305/MorbiusRobot/blob/master/LICENSE)
 
 ## Powered By
 
-[![DivideProjects](https://img.shields.io/badge/Divide-Projects-green?style=for-the-badge&logo=appveyor)](https://t.me/DivideProjectsDiscussion)
+[![Adarshtiwari1305](https://img.shields.io/badge/Adarsh-tiwari-1305-green?style=for-the-badge&logo=appveyor)](https://t.me/Hitler_fed)
