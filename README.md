@@ -1,24 +1,24 @@
 # Alita_Robot
 
 <p align='center'>
-  <img src="https://img.shields.io/github/forks/Adarshtiwari1305/Aadritimanagement?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/stars/Adarshtiwari1305/Aadritimanagement?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/issues/Adarshtiwari1305/Aadritimanagement?style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/license/Adarshtiwari1305/Aadritimanagement?style=flat-square" alt="LICENSE">
-  <img src="https://img.shields.io/github/contributors/Adarshtiwari1305/Aadritimanagement?style=flat-square" alt="Contributors">
-  <img src="https://img.shields.io/github/repo-size/Adarshtiwari1305/Aadritimanagement?style=flat-square" alt="Repo Size">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Adarshtiwari1305/Aadritimanagement&amp;title=Profile%20Views" alt="Views">
+  <img src="https://img.shields.io/github/forks/Adarshtiwari1305/Ghostrider?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/stars/Adarshtiwari1305/Ghostrider?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/issues/Adarshtiwari1305/Ghostrider?style=flat-square" alt="Issues">
+  <img src="https://img.shields.io/github/license/Adarshtiwari1305/Ghostrider?style=flat-square" alt="LICENSE">
+  <img src="https://img.shields.io/github/contributors/Adarshtiwari1305/Ghostrider?style=flat-square" alt="Contributors">
+  <img src="https://img.shields.io/github/repo-size/Adarshtiwari1305/Ghostrider?style=flat-square" alt="Repo Size">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Adarshtiwari1305/Ghostrider&amp;title=Profile%20Views" alt="Views">
 </p>
 
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/Adarshtiwari1305/Aadritimanagement" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-  <a href="https://deepsource.io/gh/Adarshtiwari1305/Aadritimanagement/?ref=repository-badge"><img src="https://static.deepsource.io/deepsource-badge-light-mini.svg" alt="DeepSource"></a>
+  <a href="https://github.com/Adarshtiwari1305/Ghostrider" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+  <a href="https://deepsource.io/gh/Adarshtiwari1305/Ghostrider/?ref=repository-badge"><img src="https://static.deepsource.io/deepsource-badge-light-mini.svg" alt="DeepSource"></a>
   <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
 <p align='center'>
- <a href="https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/Aadritimanagement"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
+ <a href="https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/Ghostrider"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
   <a href="https://t.me/Adarshtiwari1305"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Join us on Telegram"></a></br></br>
 
 </p>
@@ -34,7 +34,7 @@ Morbius Robot is a Telegram Group managment bot made using **[Pyrogram](https://
 - Frequently updated
 - Multi Language Support
 
-Can be found on Telegram as [@Aadriti_Management_Bot](https://t.me/Aadriti_Management_Bot)
+Can be found on Telegram as [@Ghostrider_Management_Robot](https://t.me/Ghostrider_Management_Robot)
 </br>
 
 Morbius Robot is currently available in 1 Language as of now:
@@ -44,7 +44,7 @@ More languages can be managed in the _locales_ folder.
 
 We are still working on adding new languages.
 
-Help us bring more languages to the bot by contributing to the project on [Crowdin](https://crowdin.com/Adarshtiwari1305/Aadritimanagement)
+Help us bring more languages to the bot by contributing to the project on [Crowdin](https://crowdin.com/Adarshtiwari1305/Ghostrider)
 
 ## Requirements
 - You need to have a *Mongo Database* (Cluster Preferred)
@@ -64,13 +64,13 @@ It really motivates me to continue this project further.
 
 **Note:** By default the bot uses the default heroku-20 stack.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/Aadritimanagemen)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/Ghostrider)
 
 ### Traditional
 
 - Install Python v3.7 or later from [Python's Website](https://python.org)
 - Install virtualenv using `python3 -m pip -U install virtualenv`.
-- **Fork** or Clone the project using `git clone https://github.com/Adarshtiwari1305/Aadritimanagement.git`
+- **Fork** or Clone the project using `git clone https://github.com/Adarshtiwari1305/Ghostrider.git`
 - Create Virtualenv using: `virtualenv venv`
 - Install the requirements using `python3 -m pip install -r requirements.txt`
 - Fill in all the variables in *Development* class, not *Config* class. **Sudo, Dev, Whitelist** users are optional!!
